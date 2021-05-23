@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sam-1210/static/css/main.d6f35c3a.chunk.css",
+    "main.css": "/Sam-1210/static/css/main.07b64475.chunk.css",
     "main.js": "/Sam-1210/static/js/main.412a4ccd.chunk.js",
     "main.js.map": "/Sam-1210/static/js/main.412a4ccd.chunk.js.map",
     "runtime-main.js": "/Sam-1210/static/js/runtime-main.d828b780.js",
@@ -8,9 +8,9 @@
     "static/js/2.ce20086a.chunk.js": "/Sam-1210/static/js/2.ce20086a.chunk.js",
     "static/js/2.ce20086a.chunk.js.map": "/Sam-1210/static/js/2.ce20086a.chunk.js.map",
     "index.html": "/Sam-1210/index.html",
-    "static/css/main.d6f35c3a.chunk.css.map": "/Sam-1210/static/css/main.d6f35c3a.chunk.css.map",
+    "static/css/main.07b64475.chunk.css.map": "/Sam-1210/static/css/main.07b64475.chunk.css.map",
     "static/js/2.ce20086a.chunk.js.LICENSE.txt": "/Sam-1210/static/js/2.ce20086a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Sam-1210/static/media/BG_Mobile.6a71de01.jpeg",
+    "static/media/App.css": "/Sam-1210/static/media/BG_Proj.4aa2aee6.jpg",
     "static/media/OMCMSThumb.8103ddf6.png": "/Sam-1210/static/media/OMCMSThumb.8103ddf6.png",
     "static/media/instagram1.a1cc9b02.png": "/Sam-1210/static/media/instagram1.a1cc9b02.png",
     "static/media/mail.3c734ec1.png": "/Sam-1210/static/media/mail.3c734ec1.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d828b780.js",
     "static/js/2.ce20086a.chunk.js",
-    "static/css/main.d6f35c3a.chunk.css",
+    "static/css/main.07b64475.chunk.css",
     "static/js/main.412a4ccd.chunk.js"
   ]
 }
