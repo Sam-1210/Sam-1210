@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Sam-1210/static/css/main.3915aefc.chunk.css",
-    "main.js": "/Sam-1210/static/js/main.07fbb357.chunk.js",
-    "main.js.map": "/Sam-1210/static/js/main.07fbb357.chunk.js.map",
+    "main.css": "/Sam-1210/static/css/main.d6f35c3a.chunk.css",
+    "main.js": "/Sam-1210/static/js/main.412a4ccd.chunk.js",
+    "main.js.map": "/Sam-1210/static/js/main.412a4ccd.chunk.js.map",
     "runtime-main.js": "/Sam-1210/static/js/runtime-main.d828b780.js",
     "runtime-main.js.map": "/Sam-1210/static/js/runtime-main.d828b780.js.map",
     "static/js/2.ce20086a.chunk.js": "/Sam-1210/static/js/2.ce20086a.chunk.js",
     "static/js/2.ce20086a.chunk.js.map": "/Sam-1210/static/js/2.ce20086a.chunk.js.map",
     "index.html": "/Sam-1210/index.html",
-    "static/css/main.3915aefc.chunk.css.map": "/Sam-1210/static/css/main.3915aefc.chunk.css.map",
+    "static/css/main.d6f35c3a.chunk.css.map": "/Sam-1210/static/css/main.d6f35c3a.chunk.css.map",
     "static/js/2.ce20086a.chunk.js.LICENSE.txt": "/Sam-1210/static/js/2.ce20086a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Sam-1210/static/media/BG.4206236c.jpeg",
+    "static/media/App.css": "/Sam-1210/static/media/BG_Mobile.6a71de01.jpeg",
+    "static/media/OMCMSThumb.8103ddf6.png": "/Sam-1210/static/media/OMCMSThumb.8103ddf6.png",
     "static/media/instagram1.a1cc9b02.png": "/Sam-1210/static/media/instagram1.a1cc9b02.png",
-    "static/media/mail.3c734ec1.png": "/Sam-1210/static/media/mail.3c734ec1.png"
+    "static/media/mail.3c734ec1.png": "/Sam-1210/static/media/mail.3c734ec1.png",
+    "static/media/www.06f139f8.png": "/Sam-1210/static/media/www.06f139f8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d828b780.js",
     "static/js/2.ce20086a.chunk.js",
-    "static/css/main.3915aefc.chunk.css",
-    "static/js/main.07fbb357.chunk.js"
+    "static/css/main.d6f35c3a.chunk.css",
+    "static/js/main.412a4ccd.chunk.js"
   ]
 }
