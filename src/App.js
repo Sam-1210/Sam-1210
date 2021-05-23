@@ -1,4 +1,5 @@
 import './App.css';
+import {useEffect} from "react"
 import GitLogo from "./Assets/git_ico.png"
 import InstaIco from "./Assets/instagram1.png"
 import LNIco from "./Assets/linkedin.png"
@@ -9,6 +10,23 @@ import OMCMSThumb from "./Assets/Projects/OMCMSThumb.png"
 import WWWIco from "./Assets/Projects/www.png"
 
 function App() {
+  useEffect(() => {
+    window.addEventListener('scroll', (event) => {
+      let x=document.getElementById("ScrollLink");
+      let y=document.getElementById("ScrollIco");
+      if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) 
+      {
+        x.href="#Projects";
+        y.src= UpIco;
+      }
+      else
+      {
+        x.href="#Profile";
+        y.src= DownIco; 
+      }
+    });
+  }, []);
+
   return (
     <div className="App">
       <div id="Profile">
@@ -47,6 +65,7 @@ function App() {
             </a>
           </div>
         </div>
+        <div>
         <div id="PageScroll">
             <a id="ScrollLink" href="#Profile" onClick={()=>{
               let x=document.getElementById("ScrollLink");
@@ -69,6 +88,7 @@ function App() {
               <img id="ScrollIco" src={DownIco} alt="Swap Page"/>
             </a>
           </div>
+      </div>
       </div>
       <div id="Projects">
           <div id="ProjectHeading" className="Heading1">Projects</div>
