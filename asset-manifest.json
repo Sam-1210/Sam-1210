@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sam-1210/static/css/main.5c4600a7.chunk.css",
-    "main.js": "/Sam-1210/static/js/main.9fb6e540.chunk.js",
-    "main.js.map": "/Sam-1210/static/js/main.9fb6e540.chunk.js.map",
+    "main.css": "/Sam-1210/static/css/main.c7483335.chunk.css",
+    "main.js": "/Sam-1210/static/js/main.d2b186f3.chunk.js",
+    "main.js.map": "/Sam-1210/static/js/main.d2b186f3.chunk.js.map",
     "runtime-main.js": "/Sam-1210/static/js/runtime-main.d828b780.js",
     "runtime-main.js.map": "/Sam-1210/static/js/runtime-main.d828b780.js.map",
     "static/js/2.ce20086a.chunk.js": "/Sam-1210/static/js/2.ce20086a.chunk.js",
     "static/js/2.ce20086a.chunk.js.map": "/Sam-1210/static/js/2.ce20086a.chunk.js.map",
     "index.html": "/Sam-1210/index.html",
-    "static/css/main.5c4600a7.chunk.css.map": "/Sam-1210/static/css/main.5c4600a7.chunk.css.map",
+    "static/css/main.c7483335.chunk.css.map": "/Sam-1210/static/css/main.c7483335.chunk.css.map",
     "static/js/2.ce20086a.chunk.js.LICENSE.txt": "/Sam-1210/static/js/2.ce20086a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Sam-1210/static/media/BG_Proj.4aa2aee6.jpg",
     "static/media/OMCMSThumb.8103ddf6.png": "/Sam-1210/static/media/OMCMSThumb.8103ddf6.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d828b780.js",
     "static/js/2.ce20086a.chunk.js",
-    "static/css/main.5c4600a7.chunk.css",
-    "static/js/main.9fb6e540.chunk.js"
+    "static/css/main.c7483335.chunk.css",
+    "static/js/main.d2b186f3.chunk.js"
   ]
 }
